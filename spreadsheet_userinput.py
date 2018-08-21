@@ -49,8 +49,4 @@ check_if_exist(user_input)
 pp = pprint.PrettyPrinter()
 ingredients = sheet.col_values(1)
 pp.pprint(ingredients)
-
-
-
-commit test 2
 """
